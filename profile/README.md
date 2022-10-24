@@ -1,5 +1,3 @@
-## Welcome to the home of the Pressbooks Open Source project
-
 Pressbooks is a book content management system that allows users to publish books to the public web and produce exports in multiple formats, including EPUB, PDF, and various XML flavours. The system is built on top of [WordPress](https://github.com/WordPress/WordPress) Multisite but makes significant changes to the admin interface, web presentation layer and export routines of a standard WordPress installation. 
 
 Pressbooks is used by educational institutions, academic presses, small publishers, as well as individual authors. For more documentation, see https://pressbooks.org/

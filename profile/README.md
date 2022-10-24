@@ -6,7 +6,7 @@ Pressbooks is used by educational institutions, academic presses, small publishe
 
 ## Support Pressbooks
 
-Pressbooks is free software, released under the GPL v3.0 license. While Pressbooks is free & open source,, creating, improving, and maintaining this project takes time, effort, and money. As a result, we ask our open source users, who depend on the long-term sustainability of the software, to contribute to the project in various ways. Our favourite kinds of support are:
+Pressbooks is free software, released under the GPL v3.0 license. While Pressbooks is free & open source, creating, improving, and maintaining this project takes time, effort, and money. As a result, we invite our open source users to help ensure the long-term sustainability of this project. Our favourite kinds of support are:
 * financial contributions
 * code contributions and testing
 * helping other open source users [on our community forum](https://pressbooks.community).
